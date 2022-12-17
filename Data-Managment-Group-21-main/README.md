@@ -1,5 +1,5 @@
 ## Course Management - University Database - Data-Managment-Group-21
-To install our database management system, first clone the github repository [] and ensure that Wamp/Xampp server is installed on your computer. In your SQL Database, import our database, course_registration.sql. Ensure that the github repository was cloned in the server folder (www for Wamp or htdocs for Xampp) for no errors. One all previous steps are completed, navigate to http://localhost/Data-Managment-Group-21/index.html. 
+To install our database management system, first clone the github repository [https://github.com/AkshatKapo/DataFinalGroupProject.git] and ensure that Wamp/Xampp server is installed on your computer. In your SQL Database, import our database, course_registration.sql. Ensure that the github repository was cloned in the server folder (www for Wamp or htdocs for Xampp) for no errors. One all previous steps are completed, navigate to http://localhost/Data-Managment-Group-21/index.html. 
 
 ![Homepage](https://user-images.githubusercontent.com/94620098/208256918-4fdb340f-58cf-4f6f-be42-05c101bc2821.jpg)
 
