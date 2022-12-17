@@ -1,5 +1,5 @@
 ## Course Management - University Database - Data-Managment-Group-21
-To install our database management system, first clone the github repository [https://github.com/awaisahmad-otu/Data-Managment-Group-21] and ensure that Wamp/Xampp server is installed on your computer. In your SQL Database, import our database, course_registration.sql. Ensure that the github repository was cloned in the server folder (www for Wamp or htdocs for Xampp) for no errors. One all previous steps are completed, navigate to http://localhost/Data-Managment-Group-21/index.html. 
+To install our database management system, first clone the github repository [] and ensure that Wamp/Xampp server is installed on your computer. In your SQL Database, import our database, course_registration.sql. Ensure that the github repository was cloned in the server folder (www for Wamp or htdocs for Xampp) for no errors. One all previous steps are completed, navigate to http://localhost/Data-Managment-Group-21/index.html. 
 
 ![Homepage](https://user-images.githubusercontent.com/94620098/208256918-4fdb340f-58cf-4f6f-be42-05c101bc2821.jpg)
 
@@ -31,6 +31,9 @@ Clicking on ‘About’ will show a brief description of the university, and the
 
 ### Courses Page
 By going to courses and clicking on select you’ll see all the available courses, and a list of the courses with thei program and faculty information
+
+![coursespage](https://user-images.githubusercontent.com/94620098/208263242-ff768400-e46f-4acd-91f1-7bb695d0458c.jpg)
+
 
 ### Contact us 
 By clicking on this page, you can submit whatever questions you have, just need to put in an email and name and then your question.
