@@ -18,6 +18,8 @@ To sign up as a student you would need to go to register for courses click on se
 To sign in you’ll need to go to the register for courses, click on select and you’ll be prompted to enter your student number and password, when you enter them you’ll see your main page with student name, program and registered courses.
 
 ![LoginPage](https://user-images.githubusercontent.com/94620098/208260497-e77413c4-d421-4dc5-a181-40de8909c87f.jpg)
+![RegisterStudentcourse](https://user-images.githubusercontent.com/94620098/208261944-eb599420-f9f9-40d3-9761-79a870510932.jpg)
+
 
 ### People
 Clicking on people will show a webpage with all of the students and professors in the database, as well as their relevant information.
