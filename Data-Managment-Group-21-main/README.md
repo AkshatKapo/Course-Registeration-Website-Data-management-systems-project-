@@ -1,6 +1,8 @@
 ## Course Management - University Database - Data-Managment-Group-21
 To install our database management system, first clone the github repository [https://github.com/awaisahmad-otu/Data-Managment-Group-21] and ensure that Wamp/Xampp server is installed on your computer. In your SQL Database, import our database, course_registration.sql. Ensure that the github repository was cloned in the server folder (www for Wamp or htdocs for Xampp) for no errors. One all previous steps are completed, navigate to http://localhost/Data-Managment-Group-21/index.html. 
 
+![Homepage](https://user-images.githubusercontent.com/94620098/208256918-4fdb340f-58cf-4f6f-be42-05c101bc2821.jpg)
+
 
 ### Register as New Student
 To sign up as a student you would need to go to register for courses click on select, then you will be asked if you are a new student or a returning one. Click on “New Student” and you can sign up as a new student by entering your student number and a password. Then, you enter your student information on the next page and will be prompted to check off courses that you wish to register for. Finally, after checking off all the courses you want to register for, you will see the main page with your student name and program and all the courses registered in and then you can go back to the home page by selecting the home button on the right top.
