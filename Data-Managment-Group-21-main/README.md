@@ -10,6 +10,8 @@ To sign up as a student you would need to go to register for courses click on se
 ![SignupPage](https://user-images.githubusercontent.com/94620098/208257128-c382cca8-0768-4b26-bb11-13e2f15244b2.jpg)
 ![StudentInformationPage](https://user-images.githubusercontent.com/94620098/208257153-93fb236d-0b26-4dc2-9405-78d33f7fe60c.jpg)
 ![StudentInformationPage1](https://user-images.githubusercontent.com/94620098/208257159-77c53ea8-c38a-42a1-ad79-fd67f74c1658.jpg)
+![courseregisterationPage](https://user-images.githubusercontent.com/94620098/208260088-497511e6-efae-47b4-be97-936bc34799e3.jpg)
+![CourseDisplaypage](https://user-images.githubusercontent.com/94620098/208260153-24712fe2-dfc8-45f6-9c31-880586ffd807.jpg)
 
 
 ### Log-in As an Existing User
