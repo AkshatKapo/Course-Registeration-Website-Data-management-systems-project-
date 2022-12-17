@@ -40,3 +40,5 @@ By clicking on this page, you can submit whatever questions you have, just need 
 
 ### Course Registration
 Once logged in, you are able to select the course that you would like to register for.
+![CourseDisplaypage](https://user-images.githubusercontent.com/94620098/208260153-24712fe2-dfc8-45f6-9c31-880586ffd807.jpg)
+
