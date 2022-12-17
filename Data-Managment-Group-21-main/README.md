@@ -24,6 +24,8 @@ To sign in you’ll need to go to the register for courses, click on select and 
 ### People
 Clicking on people will show a webpage with all of the students and professors in the database, as well as their relevant information.
 
+![peopledisplay](https://user-images.githubusercontent.com/94620098/208262985-c6617248-e03c-4d65-bdce-4d3a6d15f4ca.jpg)
+
 ### About
 Clicking on ‘About’ will show a brief description of the university, and the professor names, salaries and faculties. 
 
